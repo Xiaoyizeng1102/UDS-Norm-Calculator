@@ -1,0 +1,9 @@
+echo "# UDS-Norm-Calculator" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Xiaoyizeng1102/UDS-Norm-Calculator.git
+git push -u origin main
+
+<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=B0640C13E783777E%21120&authkey=%21AIYeyQUxHKikP_E&em=2&wdAllowInteractivity=False&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
